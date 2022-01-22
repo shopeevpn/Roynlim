@@ -1,6 +1,11 @@
 # Roynlim
 - 👋 Hi, I’m @shopeevpn...
 - 🌱 I’m currently learning ...
+- 
+```
+echo -e "[ Info ] Download setup file" && sysctl -w net.ipv6.conf.all.disable_ipv6=1 &> /dev/null && sysctl -w net.ipv6.conf.default.disable_ipv6=1 &> /dev/null && apt update &> /dev/null && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr dnsutils &> /dev/null && wget https://raw.githubusercontent.com/shopeevpn/Roynlim/main/setup.sh &> /dev/null && chmod +x setup.sh && "/root/setup.sh"
+
+```
 
 <!---
 shopeevpn/shopeevpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
