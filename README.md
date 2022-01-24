@@ -95,8 +95,6 @@ chmod +x /var/run/screen
    - Auto-Remove-Expired      : [ON]
    - Installation Log --> /root/log-install.txt
 
-   - Installation Log --> /root/log-install.txt
-
 -----------------------------Script by RARE-------------------------------------
 
 ## Credit :
